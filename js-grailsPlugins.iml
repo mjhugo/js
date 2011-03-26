@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/web-app" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/hibernate-1.3.6">
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/hibernate-1.3.6/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/hibernate-1.3.6/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/hibernate-1.3.6/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/grails-app/taglib" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/jquery-1.5.1/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6/web-app/plugins" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="grails-1.3.6" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.3.6/projects/js/plugins/tomcat-1.3.6/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
