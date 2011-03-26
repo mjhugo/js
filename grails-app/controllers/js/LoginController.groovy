@@ -8,7 +8,8 @@ class LoginController {
 
     def auth = {
         if (params.password == 'password') {
-            render "YAY!  you're logged in"
+            //render (template:'someTemplate', model:[time:new Date()])
+            render 'YAY! you have logged in'
         } else {
             response.status = HttpServletResponse.SC_BAD_REQUEST
             render 'invalid password'

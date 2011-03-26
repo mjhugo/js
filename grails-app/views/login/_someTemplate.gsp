@@ -1,0 +1,1 @@
+here is a template that gets rendered at ${time}
